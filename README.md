@@ -2,7 +2,7 @@
 
 ## Bio
 - 👋 Hi, I’m @ifuensan
-- 👀 I’m interested in Bitcoin and Ligthning Network
+- 👀 I’m interested in Bitcoin, Ligthning Network and ecash.
 - 🌱 I’m currently helping in [b4os.dev](https://b4os.dev) and [Libreria de Satoshi](https://www.libreriadesatoshi.com)
 - 💞️ I'm trying to contribute to the development of Cashu, Ligthning Network and Bitcoin Core.
 - 📫 How to reach me ....
